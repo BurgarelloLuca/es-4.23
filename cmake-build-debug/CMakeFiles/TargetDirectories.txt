@@ -1,0 +1,3 @@
+C:/Users/luca_/CLionProjects/es 4.23/cmake-build-debug/CMakeFiles/es_4_23.dir
+C:/Users/luca_/CLionProjects/es 4.23/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luca_/CLionProjects/es 4.23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
